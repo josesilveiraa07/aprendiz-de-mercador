@@ -1,0 +1,6 @@
+AtkinsonHyperlegible-*.woff2 — Atkinson Hyperlegible, (c) 2020 Braille Institute of America. SIL Open Font License 1.1 (OFL-AtkinsonHyperlegible.txt).
+  Usada nos textos e números: foi desenhada para máxima legibilidade (5/S, 1/l, 0/O bem distintos).
+PixelifySans-Bold.woff2 — Pixelify Sans, (c) The Pixelify Sans Project Authors. SIL Open Font License 1.1 (OFL-PixelifySans.txt).
+  Usada só em títulos, para manter a identidade pixel art.
+SymbolsFallback.ttf — subconjunto de símbolos (✔ ✘ ▸ ★ ● etc.) da fonte DejaVu Sans Bold.
+  DejaVu Fonts: Bitstream Vera / DejaVu license (uso, cópia e redistribuição livres). https://dejavu-fonts.github.io/License.html
